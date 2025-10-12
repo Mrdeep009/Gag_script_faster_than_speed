@@ -545,4 +545,4 @@ local function startBlockingFlashBySpeed(speed, reasonText)
             interval = math.clamp(interval, 0.03, 1.5)
             return interval
         end
-        flash
+    
